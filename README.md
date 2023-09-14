@@ -1,12 +1,14 @@
 # AYUR-CHAKRA
 SIH HACKATHON 2023 PROJECT
+
 PS NUMBER:	SIH1346
+
 TEAM MEMBERS:-
-Tarun U Rathod
-Apoorv Mathur
-Ronak
-Abdullah Mohammed Zaid 
-Madhuri V
+Tarun U Rathod,
+Apoorv Mathur,
+Ronak,
+Abdullah Mohammed Zaid ,
+Madhuri V and
 Adarsh Suresh
 
 PROBLEM STATEMENT:-Chatbot to Known Individual Prakriti (Phenotype)
